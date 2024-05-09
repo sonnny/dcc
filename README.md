@@ -13,7 +13,7 @@ In the pictures folder there is a picture of dcc track interface to 3.3v RP2040 
 
 the servo code is copied from this link --- https://cocode.se/linux/raspberry/pwm.html
 
-the decoder io is a stripped down version fo the open source dcc decoder with relative motor and function codes removed, it only looks at the speed packet format.
+the decoder io is a stripped down version of the open source dcc decoder (https://github.com/gab-k/RP2040-Decoder) with relative motor and function codes removed, it only looks at the speed packet format.
 
 
 
