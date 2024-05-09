@@ -11,9 +11,13 @@ RP2040 dcc station github --- https://github.com/pico-cs/firmware
 
 In the pictures folder there is a picture of dcc track interface to 3.3v RP2040 pico, this screenshot is taken from this link https://wakwak2popo.wordpress.com/2020/12/11/dcc-sniffer/ and works very well with the pico.
 
+the decoder io is a stripped down version of the open source dcc decoder (https://github.com/gab-k/RP2040-Decoder) with relative motor and function codes removed, it only looks at the speed packet format.
+
 the servo code is copied from this link --- https://cocode.se/linux/raspberry/pwm.html
 
-the decoder io is a stripped down version of the open source dcc decoder (https://github.com/gab-k/RP2040-Decoder) with relative motor and function codes removed, it only looks at the speed packet format.
+the ssd1306 oled code is modified from this link --- https://github.com/baetis-ma/rpi-pico-projects/blob/master/imu-pico/include/ssd1306.h
+
+the ws2812 rgb is taken from the raspberry pi pico examples
 
 
 
