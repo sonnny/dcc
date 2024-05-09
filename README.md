@@ -9,7 +9,9 @@ RP2040 decoder github --- https://github.com/PontusO/RP2040-Decoder
 
 RP2040 dcc station github --- https://github.com/pico-cs/firmware
 
-on the pictures folder there is a picture of dcc track interface to 3.3v RP2040 pico I found this on the Internet and works very well, unfortunately I lost the link and could not credit the person that made the interface.
+In the pictures folder there is a picture of dcc track interface to 3.3v RP2040 pico, this screenshot is taken for this link https://wakwak2popo.wordpress.com/2020/12/11/dcc-sniffer/ and works very well with the pico.
+
+
 
 
 
